@@ -1,0 +1,22 @@
+https://wallapop.com/app/search
+    ?time_filter=today
+    &latitude=43.0120963
+    &longitude=-7.5558311
+    &distance=200000
+    &min_km=1000
+    &max_km=250000
+    &min_horse_power=100
+    &max_horse_power=450
+    &min_year=1981
+    &max_year=1992
+    &min_sale_price=200
+    &max_sale_price=10000
+    &min_num_doors=2
+    &max_num_doors=3
+    &gearbox=manual
+    &engine=gasoline
+    &brand=Volkswagen
+    &model=Golf
+    &category_ids=100
+    &filters_source=default_filters
+    &keywords=documentacion alemana
